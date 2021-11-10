@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malthew
 - 👀 I’m interested in software and game development.
-- 🌱 I’m currently learning Java, Python, C# and Unity.
+- 🌱 I’m currently learning TypeScript, Java, Python, C#, Unity.
 
 <!---
 malthew/malthew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
