@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malthew
-- 👀 I’m interested in software and game development.
+- 👀 I'm a software developer/engineer with a broad interest in everything IT.
 - 🌱 Always learning, always improving.
 
 <!---
